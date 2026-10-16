@@ -126,6 +126,17 @@ remote: Resolving deltas: 100% (2/2), completed with 1 local object.
 remote: 
 remote: Create a pull request for 'arthur-vanlaeres' on GitHub by visiting:
 remote:      https://github.com/hasaddd20/esilv-marketpulse-g06-t03/pull/new/arthur-vanlaeres
+@arthurvlrs05-rgb ➜ /workspaces/esilv-marketpulse-g06-t03 (arthur-vanlaeres) $ cd data/
+@arthurvlrs05-rgb ➜ /workspaces/esilv-marketpulse-g06-t03/data (arthur-vanlaeres) $ pwd && ls
+/workspaces/esilv-marketpulse-g06-t03/data
+sample
+@arthurvlrs05-rgb ➜ /workspaces/esilv-marketpulse-g06-t03/data (arthur-vanlaeres) $ cd sample
+@arthurvlrs05-rgb ➜ /workspaces/esilv-marketpulse-g06-t03/data/sample (arthur-vanlaeres) $ ls
+bloomberg_reference_expected.json  bloomberg_reference_sample.json  instruments.json  prices.csv
+@arthurvlrs05-rgb ➜ /workspaces/esilv-marketpulse-g06-t03/data/sample (arthur-vanlaeres) $ cd ../..
+@arthurvlrs05-rgb ➜ /workspaces/esilv-marketpulse-g06-t03 (arthur-vanlaeres) $ pwd
+/workspaces/esilv-marketpulse-g06-t03
+@arthurvlrs05-rgb ➜ /workspaces/esilv-marketpulse-g06-t03 (arthur-vanlaeres) $ 
 remote: 
 To https://github.com/hasaddd20/esilv-marketpulse-g06-t03
  * [new branch]      arthur-vanlaeres -> arthur-vanlaeres
