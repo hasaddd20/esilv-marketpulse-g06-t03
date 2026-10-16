@@ -94,3 +94,16 @@ branch 'hugo-dussart' set up to track 'origin/hugo-dussart'.
 @hugodussart72-crypto ➜ /workspaces/esilv-marketpulse-g06-t03 (hugo-dussart) $ 
 @hugodussart72-crypto ➜ /workspaces/esilv-marketpulse-g06-t03 (hugo-dussart) $ pwd
 /workspaces/esilv-marketpulse-g06-t03
+@hugodussart72-crypto ➜ /workspaces/esilv-marketpulse-g06-t03 (hugo-dussart) $ cd data
+@hugodussart72-crypto ➜ /workspaces/esilv-marketpulse-g06-t03/data (hugo-dussart) $ pwd && ls
+/workspaces/esilv-marketpulse-g06-t03/data
+sample
+@hugodussart72-crypto ➜ /workspaces/esilv-marketpulse-g06-t03/data (hugo-dussart) $ cd sample
+@hugodussart72-crypto ➜ /workspaces/esilv-marketpulse-g06-t03/data/sample (hugo-dussart) $ ls
+bloomberg_reference_expected.json  bloomberg_reference_sample.json  instruments.json  prices.csv
+@hugodussart72-crypto ➜ /workspaces/esilv-marketpulse-g06-t03/data/sample (hugo-dussart) $ cd../..
+bash: cd../..: No such file or directory
+@hugodussart72-crypto ➜ /workspaces/esilv-marketpulse-g06-t03/data/sample (hugo-dussart) $ cd ../..
+@hugodussart72-crypto ➜ /workspaces/esilv-marketpulse-g06-t03 (hugo-dussart) $ pwd
+/workspaces/esilv-marketpulse-g06-t03
+@hugodussart72-crypto ➜ /workspaces/esilv-marketpulse-g06-t03 (hugo-dussart) $ 
