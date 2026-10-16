@@ -14,7 +14,7 @@ Copy this file to `TEAM.md` in your team repository and complete it before start
 |---|---|
 | Asadullah Hamza | @hasaddd20 |
 | Suissa Gabriel |@GabrielSuissa24  |
-| Vanlaeres Arthur |  |
+| Vanlaeres Arthur |@arthurvlrs05-rgb |
 | Dussart Hugo | @github-user-3 |
 
 
@@ -22,7 +22,7 @@ Add a fourth row only if your team has four members.
 
 ## Repository
 
-- Team repository: `esilv-marketpulse-gXX-tYY`
+- Team repository: esilv-marketpulse-g06-t03
 - Upstream repository: `tawounfouet/esilv-marketpulse`
 
 ## Market choice
