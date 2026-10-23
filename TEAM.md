@@ -15,7 +15,7 @@ Copy this file to `TEAM.md` in your team repository and complete it before start
 | Asadullah Hamza | @hasaddd20 |
 | Suissa Gabriel |@GabrielSuissa24  |
 | Vanlaeres Arthur |@arthurvlrs05-rgb |
-| Dussart Hugo | @github-user-3 |
+| Dussart Hugo | hugodussart72-crypto |
 
 
 Add a fourth row only if your team has four members.
