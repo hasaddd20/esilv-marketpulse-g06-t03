@@ -1,0 +1,41 @@
+PS C:\Users\hduss\Hugo perso\Bureau new\ESILV\IF A4\git linux\esilv-marketpulse-g06-t03> git status
+>> git log --oneline -5
+>> python src/main.py
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+817662b (HEAD -> main, origin/main, origin/HEAD) Partie 1 TD04
+5c1d58d Python Fundamentals
+29882d0 Merge branch 'hamza-asadullah'
+d86debc Merge branch 'main' of https://github.com/hasaddd20/esilv-marketpulse-g06-t03
+b5e2581 Merge branch 'gabriel-suissa'
+=== MarketPulse ===
+
+Instrument
+AAPL - Apple Inc.
+Last price: 266.20 USD
+
+Benchmark
+SP500 - S&P 500
+Last level: 6742.00
+
+Period: 1 month
+Interval: Daily
+
+Observations
+AAPL: 21
+SP500: 21
+PS C:\Users\hduss\Hugo perso\Bureau new\ESILV\IF A4\git linux\esilv-marketpulse-g06-t03> git branch
+>> git status
+* main
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+PS C:\Users\hduss\Hugo perso\Bureau new\ESILV\IF A4\git linux\esilv-marketpulse-g06-t03> git switch -c feature/display-observation-dates
+>> git branch
+Switched to a new branch 'feature/display-observation-dates'
+* feature/display-observation-dates
+  main
+
